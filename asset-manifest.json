@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/finboard/static/css/main.78b6a7eb.css",
+    "main.js": "/finboard/static/js/main.1d95bcc6.js",
+    "index.html": "/finboard/index.html",
+    "main.78b6a7eb.css.map": "/finboard/static/css/main.78b6a7eb.css.map",
+    "main.1d95bcc6.js.map": "/finboard/static/js/main.1d95bcc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78b6a7eb.css",
+    "static/js/main.1d95bcc6.js"
+  ]
+}
