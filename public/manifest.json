@@ -1,0 +1,15 @@
+{
+  "short_name": "FinBoard",
+  "name": "FinBoard Finance Dashboard",
+  "icons": [
+    {
+      "src": "logo_finboard.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
